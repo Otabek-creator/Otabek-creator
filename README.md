@@ -1,27 +1,15 @@
-## Hi there 👋 I'm Otabek
+## Hi 👋 I'm Otabek
 
-🎓 University student & **Junior Fullstack Developer**  
-🚀 Passionate about building scalable and modern web applications
+🎓 University student | **Junior Fullstack Developer**
 
----
-
-### 👨‍💻 About Me
-- 🌱 Currently learning **React, JavaScript, and Node.js**
-- 🐍 Experienced with **Python & Django**
-- 💻 Interested in both frontend and backend development
-- 🎯 Goal: get a developer job and grow into a strong software engineer
-- 🔥 I improve my skills by building real-world projects
-
----
+- 🌱 Learning **React, JavaScript, Node.js**
+- 🐍 Working with **Python & Django**
+- 💻 Interested in fullstack web development
+- 🎯 Goal: get a developer job and grow as a software engineer
 
 ### 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Python, Django, Node.js  
-- **Tools:** Git, GitHub  
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Python, Django  
+**Tools:** Git, GitHub
 
----
-
-### 📈 What I'm working on
-- Building fullstack applications
-- Improving backend & API skills
-- Preparing for junior developer opportunities
+💬 Contact me via GitHub
