@@ -25,7 +25,3 @@
 - Building fullstack applications
 - Improving backend & API skills
 - Preparing for junior developer opportunities
-
----
-
-⚡ *Fun fact:* I enjoy learning by building projects and fixing bugs 😄
