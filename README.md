@@ -12,4 +12,3 @@
 **Backend:** Node.js, Python, Django  
 **Tools:** Git, GitHub
 
-💬 Contact me via GitHub
