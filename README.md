@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Otabek
 
-🎓 University student | **Junior Fullstack Developer**
+🎓 University student | **Fullstack Developer**
 
 - 🌱 Learning **React, JavaScript, Node.js**
 - 🐍 Working with **Python & Django**
